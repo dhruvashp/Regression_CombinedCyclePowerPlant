@@ -1,0 +1,6 @@
+,AT,V,AP,RH
+linear,Relevant,Relevant,Relevant,Relevant
+squared,Relevant,Not Relevant,Relevant,Relevant
+cubed,Relevant,Relevant,Relevant,Relevant
+,,,,
+Improvement from linear only model,Minor,Minor,None,None
